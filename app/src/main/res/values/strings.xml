@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HabraRss</string>
+    <string name="app_main_load">Load</string>
+    <string name="app_main_filter_by_title">Filter by title</string>
+    <string name="app_main_mainurl">https://habrahabr.ru/rss/hubs/all</string>
+    <string name="app_article_title">title</string>
+    <string name="app_article_guid">Guid</string>
+    <string name="app_article_description">Description:</string>
+</resources>
